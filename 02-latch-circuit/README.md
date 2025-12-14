@@ -26,7 +26,7 @@ Industrial start/stop circuit using two external buttons and an LED. This is the
 | Buttons | One leg → 3.3V, other leg → input pin | | |
 
 ## Ladder Logic
-![Ladder Logic](p2_ladder_logic.png)
+![Ladder Logic](images/p2_ladder_logic.png)
 ```
     +---| START |---+
     |               |
