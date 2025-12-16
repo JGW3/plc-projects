@@ -12,7 +12,8 @@
 ## Hardware
 - STM32 Nucleo F411RE
 - Buttons, LEDs, resistors, temp sensors
-- [Pin Mapping Reference](Nucleo_F411RE_Pinout.xlsx)
+- ![Nucleo F411RE Pinout](Nucleo_F411RE_Pinout_Map.jpg)
+- [Pin Mapping Reference](nucleo-f411re-pinout.md)
 
 ## Projects
 

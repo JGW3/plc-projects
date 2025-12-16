@@ -1,0 +1,23 @@
+{
+  "baud": "115200",
+  "board_type": "Blackpill STM32-F411CE (SWD Programmer)",
+  "com_port": "/dev/ttyUSB0",
+  "dns": "8.8.8.8",
+  "gateway": "192.168.1.1",
+  "ip": "192.168.1.195",
+  "last_modified": 1765863481.6228886,
+  "mac": "0xDE, 0xAD, 0xBE, 0xEF, 0xDE, 0xAD",
+  "mb_serial": false,
+  "mb_tcp": false,
+  "pwd": "password",
+  "serial_iface": "Serial",
+  "slaveid": "1",
+  "ssid": "",
+  "subnet": "255.255.255.0",
+  "tcp_iface": "WiFi",
+  "txpin": "-1",
+  "user_ain": "PA0, PA1, PA4, PA5, PA6, PA7",
+  "user_aout": "PB0, PB1",
+  "user_din": "PA8, PB6, PA11, PA12, PB3, PB4, PB5, PB8, PB9",
+  "user_dout": "PB10, PB12, PB13, PB14, PB15, PC13, PC14, PC15"
+}
